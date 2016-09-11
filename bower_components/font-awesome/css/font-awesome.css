@@ -2072,6 +2072,8 @@
 }
 .fa-shopping-basket:before {
   content: "\f291";
+  top: -2px;
+  position: relative;
 }
 .fa-hashtag:before {
   content: "\f292";

@@ -60,7 +60,7 @@ foreach ($tempo as $key => $value){
     //$bam = $value['(SELECT name from categories where id = fk_category_id)'] . ' ' . $value['fk_product_name'];
    // echo $bam;
 
-    $raous = $value['(SELECT name from categories where id = fk_category_id)'] . ' ' . $value["fk_product_name"];
+    $raous = $value['(SELECT name from categories where id = fk_category_id)'] . ' | ' . $value["fk_product_name"];
     array_push($result,$raous);
 }
 

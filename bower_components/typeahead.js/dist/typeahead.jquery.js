@@ -227,7 +227,7 @@
                     top: "100%",
                     left: "0",
                     zIndex: "100",
-                    display: "none"
+                    display: "block"
                 },
                 ltr: {
                     left: "0",
