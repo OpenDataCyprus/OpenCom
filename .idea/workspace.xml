@@ -2,15 +2,147 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca4b92c0-b8a7-4fdc-a2d3-e628ca1a6bae" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/random.tzt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seond.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/thebasket.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/config.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/dist/Chart.bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/dist/Chart.bundle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/dist/Chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/dist/Chart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/docs/00-Getting-Started.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/docs/01-Chart-Configuration.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/docs/02-Scales.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/docs/03-Line-Chart.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/docs/04-Bar-Chart.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/docs/05-Radar-Chart.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/docs/06-Polar-Area-Chart.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/docs/07-Pie-Doughnut-Chart.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/docs/08-Bubble-Chart.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/docs/09-Advanced.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/docs/10-Notes.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/karma.conf.ci.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/karma.coverage.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/AnimationCallbacks/progress-bar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/bar-horizontal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/bar-multi-axis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/bar-stacked.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/bar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/bubble.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/combo-bar-line.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/data_label_combo-bar-line.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/different-point-sizes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/doughnut.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/line-cubicInterpolationMode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/line-customTooltips.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/line-legend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/line-logarithmic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/line-multi-axis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/line-multiline-labels.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/line-non-numeric-y.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/line-skip-points.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/line-stacked-area.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/line-stepped.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/line-x-axis-filter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/line.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/pie-customTooltips.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/pie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/polar-area.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/radar-skip-points.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/radar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/scatter-logX.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/scatter-multi-axis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/scatter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/timeScale/combo-time-scale.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/timeScale/line-time-point-data.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/timeScale/line-time-scale.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/samples/tooltip-hooks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/charts/Chart.Bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/charts/Chart.Bubble.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/charts/Chart.Doughnut.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/charts/Chart.Line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/charts/Chart.PolarArea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/charts/Chart.Radar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/charts/Chart.Scatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/controllers/controller.bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/controllers/controller.bubble.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/controllers/controller.doughnut.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/controllers/controller.line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/controllers/controller.polarArea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/controllers/controller.radar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/core/core.animation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/core/core.canvasHelpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/core/core.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/core/core.datasetController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/core/core.element.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/core/core.helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/core/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/core/core.layoutService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/core/core.legend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/core/core.plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/core/core.scale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/core/core.scaleService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/core/core.title.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/core/core.tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/elements/element.arc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/elements/element.line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/elements/element.point.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/elements/element.rectangle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/scales/scale.category.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/scales/scale.linear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/scales/scale.linearbase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/scales/scale.logarithmic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/scales/scale.radialLinear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/src/scales/scale.time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/controller.bar.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/controller.bubble.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/controller.doughnut.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/controller.line.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/controller.polarArea.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/controller.radar.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/core.element.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/core.helpers.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/core.layoutService.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/core.legend.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/core.plugin.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/core.scaleService.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/core.title.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/core.tooltip.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/defaultConfig.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/element.arc.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/element.line.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/element.point.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/element.rectangle.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/mockContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/scale.category.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/scale.linear.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/scale.logarithmic.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/scale.radialLinear.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/test/scale.time.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/chart.js/thankyou.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cartlist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getcart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/second.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/seond.php" afterPath="$PROJECT_DIR$/second.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api.php" afterPath="$PROJECT_DIR$/api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AnimatedCheckboxes/css/component.css" afterPath="$PROJECT_DIR$/AnimatedCheckboxes/css/component.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar.css" afterPath="$PROJECT_DIR$/bar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/bower_components/font-awesome/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/typeahead.js/dist/typeahead.jquery.js" afterPath="$PROJECT_DIR$/bower_components/typeahead.js/dist/typeahead.jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer_test.php" afterPath="$PROJECT_DIR$/composer_test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/list.php" afterPath="$PROJECT_DIR$/list.php" />
     </list>
     <ignored path="PhpStrom Projects.iws" />
@@ -32,17 +164,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="api.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api.php">
+      <file leaf-file-name="second.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/second.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+            <state relative-caret-position="301">
+              <caret line="54" column="55" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cartlist.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cartlist.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-464">
+              <caret line="76" column="55" selection-start-line="76" selection-start-column="55" selection-end-line="76" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getcart.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/getcart.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="28" />
               <folding>
-                <marker date="1473526205000" expanded="true" signature="536:553" ph="SELECT name ${$tableName}" />
-                <marker date="1473526205000" expanded="true" signature="632:731" ph="SELECT fk_pr... products_stores" />
-                <marker date="1473526205000" expanded="true" signature="656:709" ph="SELECT name categories" />
-                <marker date="1473526205000" expanded="true" signature="1179:1278" ph="SELECT fk_pr... products_stores" />
-                <marker date="1473526205000" expanded="true" signature="1203:1256" ph="SELECT name categories" />
+                <marker date="1473584448000" expanded="true" signature="782:825" ph="SELECT produ... list_cart" />
+                <marker date="1473584448000" expanded="true" signature="1140:1261" ph="SELECT fk_st... products_stores" />
+                <marker date="1473584448000" expanded="true" signature="1855:1888" ph="SELECT name stores" />
+                <marker date="1473584448000" expanded="true" signature="2155:2266" ph="SELECT fk_pr... products_stores" />
               </folding>
             </state>
           </provider>
@@ -51,58 +202,28 @@
       <file leaf-file-name="list.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/list.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+            <state relative-caret-position="93">
+              <caret line="45" column="100" selection-start-line="45" selection-start-column="100" selection-end-line="45" selection-end-column="100" />
               <folding>
-                <element signature="n#style#0;n#footer#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1473582742000" expanded="true" signature="5708:5714" ph=" " />
-                <marker date="1473582742000" expanded="true" signature="5714:5720" ph=" " />
-                <marker date="1473582742000" expanded="true" signature="5720:5726" ph=" " />
-                <marker date="1473582742000" expanded="true" signature="5727:5733" ph=" " />
-                <marker date="1473582742000" expanded="true" signature="5733:5739" ph=" " />
-                <marker date="1473582742000" expanded="true" signature="5739:5745" ph=" " />
+                <element signature="n#style#0;n#img#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1473603546000" expanded="true" signature="4864:4870" ph=" " />
+                <marker date="1473603546000" expanded="true" signature="4870:4876" ph=" " />
+                <marker date="1473603546000" expanded="true" signature="4876:4882" ph=" " />
+                <marker date="1473603546000" expanded="true" signature="4883:4889" ph=" " />
+                <marker date="1473603546000" expanded="true" signature="4889:4895" ph=" " />
+                <marker date="1473603546000" expanded="true" signature="4895:4901" ph=" " />
+                <marker date="1473603546000" expanded="true" signature="4970:5008" ph="..." />
+                <marker date="1473603546000" expanded="true" signature="4970:5018" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="seond.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/seond.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="12" column="82" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bar.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="bar.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bar.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1249">
-              <caret line="1822" column="0" selection-start-line="1822" selection-start-column="0" selection-end-line="1822" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="typeahead.bundle.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower_components/typeahead.js/dist/typeahead.bundle.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="1098" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="2450" selection-end-column="3" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="random.tzt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/random.tzt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="381" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="382" />
+            <state relative-caret-position="276">
+              <caret line="1949" column="4" selection-start-line="1949" selection-start-column="4" selection-end-line="1949" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -124,9 +245,12 @@
         <option value="$PROJECT_DIR$/bower_components/typeahead.js/dist/typeahead.jquery.js" />
         <option value="$PROJECT_DIR$/bower_components/typeahead.js/dist/typeahead.bundle.js" />
         <option value="$PROJECT_DIR$/api.php" />
-        <option value="$PROJECT_DIR$/bar.css" />
-        <option value="$PROJECT_DIR$/list.php" />
+        <option value="$PROJECT_DIR$/.bowerrc" />
         <option value="$PROJECT_DIR$/seond.php" />
+        <option value="$PROJECT_DIR$/second.php" />
+        <option value="$PROJECT_DIR$/second.css" />
+        <option value="$PROJECT_DIR$/list.php" />
+        <option value="$PROJECT_DIR$/bar.css" />
       </list>
     </option>
   </component>
@@ -141,8 +265,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.5" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1200" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -188,6 +312,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="datathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="datathon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -196,9 +334,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="FullScreen" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -210,7 +348,7 @@
       <recent name="$PROJECT_DIR$/govdata" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.seond.php">
+  <component name="RunManager" selected="JavaScript Debug.second.php">
     <configuration default="false" name="api.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/api.php">
       <method />
     </configuration>
@@ -223,7 +361,7 @@
     <configuration default="false" name="composer_test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/composer_test.php">
       <method />
     </configuration>
-    <configuration default="false" name="seond.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/datathon/seond.php">
+    <configuration default="false" name="second.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/datathon/second.php">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -277,11 +415,11 @@
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.list.php" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.composer_test.php" />
       <item index="3" class="java.lang.String" itemvalue="PHP Script.composer_test.php" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.seond.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.second.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.seond.php" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.second.php" />
         <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.list.php" />
         <item index="2" class="java.lang.String" itemvalue="PHP Script.composer_test.php" />
         <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.composer_test.php" />
@@ -301,18 +439,18 @@
       <updated>1473246446983</updated>
       <workItem from="1473246448377" duration="274000" />
       <workItem from="1473255941995" duration="3596000" />
-      <workItem from="1473501986881" duration="22547000" />
+      <workItem from="1473501986881" duration="29636000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26417000" />
+    <option name="totallyTimeSpent" value="33506000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1200" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18423855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27948305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -320,7 +458,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32920355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.509589" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39982653" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -430,24 +568,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/random.tzt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="381" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="382" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/typeahead.js/dist/typeahead.bundle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="1098" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="2450" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -462,34 +582,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bar.css">
+    <entry file="file://$PROJECT_DIR$/../../xamppfiles/htdocs/datathon/.bowerrc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1249">
-          <caret line="1822" column="0" selection-start-line="1822" selection-start-column="0" selection-end-line="1822" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/typeahead.js/dist/typeahead.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="1098" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="2450" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/random.tzt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="381" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="382" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thebasket.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="222" selection-start-line="7" selection-start-column="222" selection-end-line="7" selection-end-column="222" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getcart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <marker date="1473584448000" expanded="true" signature="782:825" ph="SELECT produ... list_cart" />
+            <marker date="1473584448000" expanded="true" signature="1140:1261" ph="SELECT fk_st... products_stores" />
+            <marker date="1473584448000" expanded="true" signature="1855:1888" ph="SELECT name stores" />
+            <marker date="1473584448000" expanded="true" signature="2155:2266" ph="SELECT fk_pr... products_stores" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cartlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-464">
+          <caret line="76" column="55" selection-start-line="76" selection-start-column="55" selection-end-line="76" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="54" column="55" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/list.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        <state relative-caret-position="93">
+          <caret line="45" column="100" selection-start-line="45" selection-start-column="100" selection-end-line="45" selection-end-column="100" />
           <folding>
-            <element signature="n#style#0;n#footer#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1473582742000" expanded="true" signature="5708:5714" ph=" " />
-            <marker date="1473582742000" expanded="true" signature="5714:5720" ph=" " />
-            <marker date="1473582742000" expanded="true" signature="5720:5726" ph=" " />
-            <marker date="1473582742000" expanded="true" signature="5727:5733" ph=" " />
-            <marker date="1473582742000" expanded="true" signature="5733:5739" ph=" " />
-            <marker date="1473582742000" expanded="true" signature="5739:5745" ph=" " />
+            <element signature="n#style#0;n#img#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1473603546000" expanded="true" signature="4864:4870" ph=" " />
+            <marker date="1473603546000" expanded="true" signature="4870:4876" ph=" " />
+            <marker date="1473603546000" expanded="true" signature="4876:4882" ph=" " />
+            <marker date="1473603546000" expanded="true" signature="4883:4889" ph=" " />
+            <marker date="1473603546000" expanded="true" signature="4889:4895" ph=" " />
+            <marker date="1473603546000" expanded="true" signature="4895:4901" ph=" " />
+            <marker date="1473603546000" expanded="true" signature="4970:5008" ph="..." />
+            <marker date="1473603546000" expanded="true" signature="4970:5018" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/seond.php">
+    <entry file="file://$PROJECT_DIR$/bar.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="12" column="82" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
+        <state relative-caret-position="276">
+          <caret line="1949" column="4" selection-start-line="1949" selection-start-column="4" selection-end-line="1949" selection-end-column="4" />
           <folding />
         </state>
       </provider>

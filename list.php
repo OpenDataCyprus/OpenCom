@@ -20,14 +20,6 @@
     <script src="AnimatedCheckboxes/js/svgcheckbx.js"></script>
     <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.css">
     <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
-
-
-
-    <!--    <script src="bower_components/datatables.net/js/jquery.dataTables.js"></script>-->
-    <!--    <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css">-->
-
-
-    <!--    <link rel="stylesheet" type="text/css" href="AnimatedCheckboxes/css/normalize.css" />-->
     <link rel="stylesheet" type="text/css" href="AnimatedCheckboxes/css/demo.css"/>
     <link rel="stylesheet" type="text/css" href="AnimatedCheckboxes/css/component.css"/>
     <script src="AnimatedCheckboxes/js/modernizr.custom.js"></script>
@@ -37,35 +29,31 @@
           content="animated checkbox, svg, radio button, styled checkbox, css, pseudo element, form, animated svg"/>
     <meta name="author" content="Codrops"/>
     <script src="bower_components/waypoints/lib/jquery.waypoints.js"></script>
-    <!--
-        <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.css">
-        <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
-        -->
 
 </head>
+<img src="boo.jpg" class="thebasket" alt="Mountain View" style="width:1304px;height:1228px;"> </img>
+
 <body>
 
-<?php echo '<br>'; ?>
-
-<p class="title">OpenΚούσπ</p>
-
-<img id="logo" src="basket.jpg"/>
 
 
-<div class="searcher">{{name}}
+<div class="searcher">
     <form method="get" class="search wrapper">
 
         <div id="the-basics scrollable-dropdown-menu">
-            <input id="searchinput" type="text" autocapitalize="off" autocomplete="off" autocorrect="off" spellcheck="false"
-                   class="searchInput _e2 textInput typeahead" id="search" placeholder="Παρακαλώ εισαγάγετε προϊόν...">
+            <input id="searchinput" type="text" autocapitalize="off" autocomplete="off" autocorrect="off"
+                   spellcheck="false"
+                   class="searchInput _e2 textInput typeahead" id="search" placeholder="Παρακαλώ εισάγετε προϊόν...">
         </div>
         <div class="rddight">
-            <a role="button" class="_7 _51 _u1 _z1 button" id="1"><span class="caps"><i class="fa fa-shopping-basket"
-                                                                                 aria-hidden="true"></i><span
-                    class="price"></span></span>
-            <a role="button" class="_7 _51 _u1 _z1 button fa fa-remove" id="two"> <svg id="what" width="24" height="24" viewBox="0 0 24 24" class="_8"></a>
+            <a role="button" class="_7 _51 _u1 _z1 button" id="1"><span class="caps"><i class="fa fa-magic"
+                                                                                        aria-hidden="true"></i><span
+                        class="price"></span></span>
+                <a role="button" class="_7 _51 _u1 _z1 button fa fa-remove" id="two">
+                    <svg id="what" width="24" height="24" viewBox="0 0 24 24" class="_8">
+                </a>
                 <path d="M6 6l12 12M18 6L6 18"></path>
-            </svg>
+                </svg>
             </a>
         </div>
     </form>
@@ -74,7 +62,7 @@
 </div>
 
 <!---->
-<!--How do I type the Euro (€-->
+<!--€-->
 
 
 <div class="container">
@@ -107,19 +95,13 @@
 
                 </tfoot>
                 <tbody>
-<!--                <tr>-->
-<!--                    <td>ΧΑΡΑΛΑΜΠΙΔΗΣ - ΚΡΙΣΤΗΣ Άπαχο, 1L Φιάλη</td>-->
-<!--                    <td>-->
-<!--                        <form><input type='number' size='10' id='numberinput' name='mynumber' value='0'/></form>-->
-<!--                    </td>-->
-<!---->
-<!--                </tr>-->
+
                 <tr id="lastrow">
-                    <form >
+                    <form>
                         <td><input id="cardtextinput" type=text value="" placeholder="Αριθμός Υπεραγορών"></td>
-                        <td id="cardbuttons"><input type=submit value="Εμφάνιση Τιμών""><input type=submit
-                                                                                               value="Export""><input
-                                type=submit value="Import"">
+                        <td id="cardbuttons"><input id="pressme" type=submit value="Εμφάνιση Τιμών"><input type=submit
+                                                                                                           value="Export""><input
+                                type=submit value="Import">
                         </td>
 
                     </form>
@@ -128,82 +110,68 @@
 
                 </tbody>
             </table>
-            <input id="cardbutton" type='submit'>d</input>
+
         </form>
-
-
 
 
         <script>
 
 
-            $( "#1").click(function() {
+            $("#1").click(function () {
 
 
+                var counter = Math.floor(Math.random() * 1000);
+                $(".tt-selectable").toArray().forEach(function (i) {
 
+                    var temp = i.innerText.substring(i.innerText.indexOf('|') + 2);
 
-                var counter = Math.floor(Math.random()*1000);
-                $(".tt-selectable").toArray().forEach(function(i){
+                    $('ul#myul').append("<li><input class='three' id='cb" + counter.toString() + "'" + "name='cb" + counter.toString() + "'" + "type='checkbox'><label for='cb" + counter.toString() + "'>" + temp + "</label> <span class='price'> <span class='number'>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</span></li>" + "<svg id='mysvg'><rect width='25' height='25' style='fill: none;stroke:black;stroke-width:2'></svg>");
 
-                    var temp =  i.innerText.substring(i.innerText.indexOf('|')+2);
-
-                    $('ul#myul').append("<li><input class='three' id='cb"+counter.toString() + "'" + "name='cb"+counter.toString() + "'" + "type='checkbox'><label for='cb" + counter.toString() + "'>" + temp + "</label> <span class='price'> <span class='number'>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</span></li>");
-
-                    var script = document.createElement( 'script' );
+                    var script = document.createElement('script');
                     script.type = "text/javascript";
                     script.src = 'AnimatedCheckboxes/js/svgcheckbx.js';
-                    $("html").append( script );
+                    $("html").append(script);
 
                     counter += 1;
 
                 });
 
 
-                $(".tt-suggestion.tt-selectable").toArray().forEach(function(i){
+                $(".tt-suggestion.tt-selectable").toArray().forEach(function (i) {
                     i.remove();
                 });
 
 
-
-                $("label").click(function(data) {
+                $("label").click(function (data) {
                     console.log(data);
 
 
-                    $("<tr><td>" + $(this).text() +"</td><td><input type='number' size='10' id='numberinput' name='mynumber' value='1'></td></tr>").insertBefore("#lastrow");
+                    $("<tr><td>" + $(this).text() + "</td><td><input type='number' size='10' id='numberinput' name='mynumber' value='1'></td><td id='remove'><i class='remove fa fa-remove'></i></td></tr>").insertBefore("#lastrow");
 
 
                 });
-
-
-
 
 
             });
 
 
-            $("#two").click(function() {
+            $("#two").click(function () {
 
                 $('ul#myul').empty();
                 $("#searchinput").val('');
 
 
-                $(".tt-suggestion.tt-selectable").toArray().forEach(function(i){
+                $(".tt-suggestion.tt-selectable").toArray().forEach(function (i) {
                     i.remove();
                 });
 
             });
 
 
-
-            $("label").click(function(data) {
-                console.log(data);
-
-
-                $("<tr><td>ΧΑΡΑΛΑΜΠΙΔΗΣ - ΚΡΙΣΤΗΣ Άπαχο, 1L Φιάλη</td><td><input type='number' size='10' id='numberinput' name='mynumber' value='1'></td></tr>").insertBefore("#lastrow");
-
-
+            $("#pressme").click(function (ev) {
+                ev.preventDefault();
+                window.location.href = "http://hadjixenophontos.com/ebasket/cartlist.php";
             });
-
 
             $.ajax({
                 type: 'GET',

@@ -20,6 +20,16 @@
     <script src="AnimatedCheckboxes/js/svgcheckbx.js"></script>
     <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.css">
     <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="bower_components/chart.js"></script>
+    <script>
+        var myChart = new Chart({...})
+    </script>
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.23.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.23.0/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
 
 
 
@@ -32,7 +42,7 @@
     <link rel="stylesheet" type="text/css" href="AnimatedCheckboxes/css/component.css"/>
     <script src="AnimatedCheckboxes/js/modernizr.custom.js"></script>
     <meta name="description"
-          content="Animated Checkboxes and Radio Buttons with SVG: Using SVG for adding some fancy 'check' animations to form inputs"/>
+          content="Animated Checkboxes and Radio Buttons with SVGnpm install chart.js --save: Using SVG for adding some fancy 'check' animations to form inputs"/>
     <meta name="keywords"
           content="animated checkbox, svg, radio button, styled checkbox, css, pseudo element, form, animated svg"/>
     <meta name="author" content="Codrops"/>
@@ -40,10 +50,25 @@
     <!--
         <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.css">
         <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+
         -->
+    <link rel="stylesheet" type="text/css" href="second.css">
 
 </head>
 <body>
+
+
+
+<div id='map'></div>
+<script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiY2hhbm5lbDQwNDAiLCJhIjoiY2lzeWZoMmJtMDAzdjJ0cGR3NmxjZ3R3eiJ9._S6zKSXbpIL0-GyFyrDJVA';
+    var map = new mapboxgl.Map({
+        container: 'map', // container id
+        style: 'mapbox://styles/mapbox/streets-v9', //stylesheet location
+        center: [-74.50, 40], // starting position
+        zoom: 9 // starting zoom
+    });
+</script>
 
 <?php echo '<br>'; ?>
 

@@ -87,7 +87,6 @@ header,
 html,
 i,
 iframe,
-img,
 ins,
 kbd,
 label,
@@ -1087,8 +1086,8 @@ pre {
     padding: 0 16px;
     /* left: 48px; */
     position: relative;
-    left: 44.4em;
-    top: -3.08em;
+    left: 31.5em;
+    top: 1.45em;
 }
 
 ._q2 {
@@ -1545,6 +1544,7 @@ input.labelauty + label {
 
 label {
     cursor: default;
+    /* top: -10px; */
 }
 
 section#lby-content > #lby-demo ul li {
@@ -1575,7 +1575,7 @@ ul, menu, dir {
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
     -webkit-padding-start: 40px;
-    top: -73px;
+    top: 56px;
     left: -79px;
     position: relative;
 }
@@ -1787,10 +1787,10 @@ thead{
 
 #cardtable{
     position: fixed;
-    left: 72%;
-    top: 1em;
+    left: 64%;
+    top: 3.9em;
     float: left;
-    max-width: 32%;
+    max-width: 34%;
     /* border: solid #f6f6f6; */
     /* border-radius: 18px; */
     border-radius: 14px;
@@ -1835,7 +1835,7 @@ thead{
 .typeahead,
 .tt-query,
 .tt-hint {
-    /* width: 33.3em; */
+    /* width: 33.3em!important; */
     /* height: 30px; */
     /* padding: 8px 12px; */
     /* font-size: 24px; */
@@ -1851,6 +1851,10 @@ thead{
 
 .typeahead {
     background-color: #fff;
+    top: 67px;
+    left: 102px;
+    width: 502px;
+    /* width: 118%!important; */
 }
 
 .typeahead:focus {
@@ -1881,7 +1885,8 @@ thead{
     -moz-box-shadow: 0 5px 10px rgba(0,0,0,.2);
     /* box-shadow: 0 5px 10px rgba(0,0,0,.2); */
     color: black;
-    top: -13px;
+    left: 110px!important;
+    top: 107px!important;
     position: relative;
     /* display: none!important; */
 }
@@ -1911,9 +1916,36 @@ thead{
 #two {
     background: black;
     position: relative;
-    left: 23.4em;
-    top: -1.5em;
+    left: 16.7em;
+    top: 0.9em;
     font-size: 30px;
     color: black;
     background: transparent;
+}
+
+
+#remove{position: relative;left: -68.9px;top: -1.1px;}
+
+
+.thebasket{
+    width: 145px!important;
+    height: 130px!important;
+    /* height: 30%!important; */
+    border-radius: 10000px;
+    /* display: block; */
+    position: absolute;
+    left: 127px;
+    top: 31px;
+}
+
+
+svg#mysvg{/* margin-left: 192px; *//* margin-top: -30px; *//* position: relative; *//* top: -40px; */display: none;}
+
+.price path{
+    
+}
+
+.ac-custom ul, .ac-custom ol{
+    left: -162px;
+    /* font-size: 8px; */
 }
